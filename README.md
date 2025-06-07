@@ -33,6 +33,21 @@ https://wokwi.com/
 
 3. Hacer la conexión de la LCD con la ESP 32 como se muestra en la imagen
 
+![image](https://github.com/user-attachments/assets/08e8be15-5bf8-4311-bd80-a5f376afef42)
+
+## Instrucciones de operación 
+
+1. Iniciar el simulador
+
+2. Visualizar los datos en la LCD
+
+3. Colocar la temperatura y humedad relativa dando doble click en el sensor DHT22
+
+## Resultados 
+
+Cuando haya funcionado el display te mandara las siguientes imagenes en retardos de dos segundos
+
+
 
 
    
