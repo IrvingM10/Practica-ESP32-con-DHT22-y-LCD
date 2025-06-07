@@ -53,6 +53,9 @@ Cuando haya funcionado el display te mandara las siguientes imagenes en retardos
 
 ![image](https://github.com/user-attachments/assets/fbeaa748-981f-42f0-909d-9c019fcad8ab)
 
+![image](https://github.com/user-attachments/assets/f2a83b1e-a7fe-4c98-b605-e22443774ed7)
 
+## Créditos
+Desarrollado por Irving Cardoso estudiante de Ingeniería Mecánica
 
-   
+https://github.com/IrvingM10/Practica-ESP32-con-DHT22-y-LCD/edit/main/README.md   
