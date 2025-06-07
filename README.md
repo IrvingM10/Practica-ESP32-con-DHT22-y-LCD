@@ -29,5 +29,10 @@ https://wokwi.com/
 
 2. Instalar la librería DHT sensor library for ESPx y LiquidCrystal I2C como se muestra en la siguiente imagen
 
+![image](https://github.com/user-attachments/assets/41255636-8cbb-465a-bdd0-6731fcf016d5)
+
+3. Hacer la conexión de la LCD con la ESP 32 como se muestra en la imagen
+
+
 
    
