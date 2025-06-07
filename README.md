@@ -50,4 +50,5 @@ Cuando haya funcionado el display te mandara las siguientes imagenes en retardos
 
 
 
+
    
