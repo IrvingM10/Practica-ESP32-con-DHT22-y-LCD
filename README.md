@@ -23,4 +23,8 @@ https://wokwi.com/
 
 1. Abrir la terminal de programación y colocar la siguiente programación
 
+![image](https://github.com/user-attachments/assets/32dbc6cc-67de-4463-93fe-bb354e35ef7c)
+
+
+
    
