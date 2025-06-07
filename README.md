@@ -25,6 +25,7 @@ https://wokwi.com/
 
 ![image](https://github.com/user-attachments/assets/32dbc6cc-67de-4463-93fe-bb354e35ef7c)
 
+![image](https://github.com/user-attachments/assets/0139f134-a0cf-4660-af30-9a479ce01d09)
 
 
    
